@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "This is Hugh Veal's version of tghe Friend Finder application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcv4027/FriendFinder.git"
+  },
+  "author": "Hugh Veal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcv4027/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/hcv4027/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
