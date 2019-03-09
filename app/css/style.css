@@ -1,6 +1,7 @@
 body {
 	font-family: 'Calibri', sans-serif;
-	background: slateblue;
+	background: #14278c;
+	color: white;
 }
 
 .site {
@@ -31,8 +32,8 @@ p {
 
 footer {
 	text-align: right;
-	background: #fff;
-	padding: 30px;
+	background: lightgray;
+	padding: 22px;
 	-webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
 	-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
 	box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
@@ -47,12 +48,13 @@ form {
 }
 
 a {
-	color: #5cb85c;
+	color: blue;
 	font-size: 20px;
 }
 
 #bestFriendModal {
 	text-align: center;
+	background-color: brown;
 }
 
 #bestFriendPhoto {
