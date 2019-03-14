@@ -1,27 +1,27 @@
 var friends = [
 	{
 		name: "Hilton",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/0/0a/Charlie_%289%29.jpg",
+		photo: "https://chartwellspeakers.com/wp-content/uploads/2012/08/Giles-Duley-Wordpress.jpg",
 		scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
 	},
 	{
 		name: "Ima",
-		photo: "https://vignette2.wikia.nocookie.net/itsalwayssunny/images/f/f3/Square-Dee-Cheesy.jpg",
+		photo: "http://www.gretchenshouse.com/wp-content/uploads/2018/03/Heike-255x272.jpg",
 		scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
 	},
 	{
 		name: "Dorothy",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/1/13/Dennis_%281%29.jpg",
+		photo: "https://c8.alamy.com/comp/C35EHF/bar-refaeli-outside-the-ed-sullivan-theater-for-the-late-show-with-C35EHF.jpg",
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
 		name: "Alexander",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/5/5f/Mac_-_Season_8.jpg",
+		photo: "https://artintheblood.typepad.com/.a/6a0120a570a392970b01b7c931b847970b-pi";
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
 		name: "Milton",
-		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/f/fe/Season_7_-_Frank.jpg",
+		photo: "https://chartwellspeakers.com/wp-content/uploads/2012/08/Joel-Stein-Wordpress.jpg",
 		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
 	}
 ];

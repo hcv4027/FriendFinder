@@ -4,20 +4,23 @@
 	<title>Survey - VealMatch Friend Finder</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<!-- Link static CSS -->
+	<!-- Link local/static CSS -->
 	<link rel="stylesheet" type="text/css" href="/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Baloo|Roboto" rel="stylesheet">
 </head>
 <body>
 	<div class="container content">
 		<h1>Survey</h1>
-		<p>Answernthe questions in the survey below to find your perfect match! These questions are answered by the numbers 1 through 5. If you really, really disagree with the statement, your answer would be 1. If you find a statement to hit extremely close to home, put in a 5.</p>
+		<p>Answer the questions in the survey below to find your perfect match! 
+		   The answers to these questions have a range of the numbers 1 through 5. 
+		   If you could not disagree more with the statement, your answer would be a 1. 
+		   If the statement sounds like your cup of tea, answer with a 5. Simple Right? Let's get started!</p>
 		<form>
 			<div class="form-group">
 				<input id="name" type="text" class="form-control" placeholder="Name (Required)">
 			</div>
 			<div class="form-group">
-				<input id="photo" type="text" class="form-control" placeholder="Link to Profile Photo (Required)">
+				<input id="photo" type="text" class="form-control" placeholder="Link to Profile Photo (Optional)">
 			</div>
 			<div class="form-group">
 				<label for="question1">I love comic books.</label>
@@ -134,7 +137,7 @@
 			<button id="submitBtn" type="submit" class="btn btn-success btn-lg">Submit</button>
 		</div>
 		
-		<!-- Modal after survey completion -->
+		<!-- Modal pop-up after survey completion -->
 		<div id="bestFriendModal" class="modal fade" role="dialog">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -156,9 +159,9 @@
 
 	<footer>
 		<div class="container">
-			<a href="/api/friends">Discover Friends in Philly API</a>
+			<a href="/api/friends">Find New Friends in the World!</a>
 			<span>|</span>
-			<a href="https://github.com/yoonslee/FriendFinder">GitHub Repo</a>
+			<a href="https://github.com/hcv4027/FriendFinder">Hugh Veal's GitHub Repo</a>
 		</div>
 	</footer>
 
