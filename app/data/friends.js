@@ -16,7 +16,7 @@ var friends = [
 	},
 	{
 		name: "Alexander",
-		photo: "https://artintheblood.typepad.com/.a/6a0120a570a392970b01b7c931b847970b-pi";
+		photo: "https://artintheblood.typepad.com/.a/6a0120a570a392970b01b7c931b847970b-pi",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
