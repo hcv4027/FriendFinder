@@ -10,7 +10,7 @@ pairs you with someone of like mind!
 
 ![screenshot_main](https://github.com/hcv4027/FriendFinder/blob/master/app/images/main.PNG)
 
-To use our web service, simply go to our homepage and take our state-of-the-art survey. Immediately after submitting the survey, your perfect best friend will pop up. We also have an API you can access to the network's users and their personalized information. For research purposes.
+Go to my homepage and take the survey. After submitting the survey, your matched friend will pop up.
 
 ## Requirements
 - Use of `express`, `body-parser`, and `path` npm packages in the `server.js` file
